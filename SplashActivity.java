@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import app.sponsorbeats.com.sponsorbeats.BaseActivity;
 import app.sponsorbeats.com.sponsorbeats.R;
 
 /**
